@@ -56,7 +56,7 @@ Rather than just presenting charts, my aim was to answer real business questions
     - **Seasonal Trend:** Combined column & line chart (monthly sales + orders)
     - **Geographic Analysis:** Sales distribution by city (interactive map)
 - **Self-Service Slicers:**  
-  Filter by year, month, city, product, category, and day to enable any business user to ask and answer their own questions—instantly.
+  Filter by year, day, city, product, category, and day to enable any business user to ask and answer their own questions—instantly.
 
 ---
 
