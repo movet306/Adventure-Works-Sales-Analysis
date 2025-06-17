@@ -2,7 +2,7 @@
 
 > **End-to-end Sales Analytics using SQL & Power BI**
 
-![image](https://github.com/user-attachments/assets/96c0391f-0343-47ef-b6b8-5a1bbdab5dd3)
+![image](https://github.com/user-attachments/assets/213cd5ca-2068-4ef2-9859-edbfd06b45e7)
 
 
 ## Executive Summary
