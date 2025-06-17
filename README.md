@@ -1,6 +1,6 @@
 # Adventure Works Sales Analysis
 
-> **End-to-end Sales Analytics powered by SQL & Power BI**
+> **End-to-end Sales Analytics using SQL & Power BI**
 
 ![image](https://github.com/user-attachments/assets/96c0391f-0343-47ef-b6b8-5a1bbdab5dd3)
 
